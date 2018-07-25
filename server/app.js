@@ -6,7 +6,6 @@ var mongoose = require('mongoose');
 var app = express();
 
 // view engine setupdfgdfgfdg
-// fddf
 app.set('views', path.join(__dirname, 'views'));
 
 app.use(bodyParser.json());
