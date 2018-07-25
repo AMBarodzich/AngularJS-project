@@ -5,6 +5,7 @@ module.exports = function(config) {
     basePath: '',
 
 	  
+	  
     files: [
       'client/bower_components/jquery/dist/jquery.js',
       'client/bower_components/angular/angular.js',
