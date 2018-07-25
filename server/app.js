@@ -5,7 +5,8 @@ var routes = require('./routes/index');
 var mongoose = require('mongoose');
 var app = express();
 
-// view engine setup
+// view engine setupdfgdfgfdg
+// fddf
 app.set('views', path.join(__dirname, 'views'));
 
 app.use(bodyParser.json());
