@@ -3,4 +3,5 @@ if output=$(git status --porcelain); then
 else
   echo net kakah123    
   
+  
 fi
