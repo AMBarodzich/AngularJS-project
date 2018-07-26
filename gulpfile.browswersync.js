@@ -14,6 +14,7 @@ gulp.task('browser-sync', ['nodemon'], function() {
   });
 });
 
+
 //restart the application each time you change
 gulp.task('nodemon', function(cb) {
   return nodemon({
