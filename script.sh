@@ -4,8 +4,5 @@ else
   echo net kakah123    
   
   
-  
-  
-  
-  
+ 
 fi
